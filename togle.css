@@ -1,0 +1,184 @@
+#data {
+  background-color: salmon;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 500px;
+}
+#data2 {
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 800px;
+  top: 20px;
+}
+#data3 {
+  background-color: darkgreen;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 500px;
+  top: 320px;
+}
+#data4 {
+  background-color: yellow;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 800px;
+  top: 320px;
+}
+hr {
+  width: 400px;
+  margin-left: 0px;
+}
+h2 {
+  position: relative;
+  top: 30px;
+  left: 50px;
+}
+.buton1 {
+  background-color: red;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton2 {
+  background-color: crimson;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton3 {
+  background-color: brown;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton4 {
+  background-color: maroon;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton5 {
+  background-color: blue;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton6 {
+  background-color: azure;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton7 {
+  background-color: cyan;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton8 {
+  background-color: navy;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton9 {
+  background-color: darkgreen;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton10 {
+  background-color: forestgreen;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton11 {
+  background-color: limegreen;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton12 {
+  background-color: lightgreen;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton13 {
+  background-color: yellow;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton14 {
+  background-color: goldenrod;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton15 {
+  background-color: gold;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.buton16 {
+  background-color: lightgoldenrodyellow;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="togle.css">
+    <script>
+        function handlecolor(clr){
+         document.getElementById("data").style.backgroundColor=clr
+        }
+        function handlecolor2(clr){
+            document.getElementById("data2").style.backgroundColor=clr
+        }
+        function handlecolor3(clr){
+            document.getElementById("data3").style.backgroundColor=clr
+        }
+        function handlecolor4(clr){
+            document.getElementById("data4").style.backgroundColor=clr
+        }
+        </script>
+    
+</head>
+<body>
+    <div>
+    <div id="data"></div>
+           <h2>Div 1 Color </h2>
+    <button class="buton1"  onclick="handlecolor('red')"></button>
+    <button class="buton2" onclick="handlecolor('crimson')"></button>
+    <button class="buton3" onclick="handlecolor('brown')"></button>
+    <button class="buton4" onclick="handlecolor('maroon')"></button>
+</div>
+    <hr>
+    <div>
+    <div id="data2"></div>
+           <h2>Div 2 Color </h2>
+    <button class="buton5"  onclick="handlecolor2('blue')"></button>
+    <button class="buton6" onclick="handlecolor2('azure')"></button>
+    <button class="buton7" onclick="handlecolor2('cyan')"></button>
+    <button class="buton8" onclick="handlecolor2('navy')"></button>
+</div>
+    <hr>
+    <div>
+    <div id="data3"></div>
+           <h2>Div 3 Color </h2>
+           <button class="buton9" onclick="handlecolor3('darkgreen')"></button>
+           <button class="buton10"  onclick="handlecolor3('forestgreen')"></button>
+           <button class="buton11" onclick="handlecolor3('limegreen')"></button>
+           <button class="buton12" onclick="handlecolor3('lightgreen')"></button>
+</div>
+</div>
+    <hr>
+    <div>
+    <div id="data4"></div>
+           <h2>Div 4 Color </h2>
+           <button class="buton13" onclick="handlecolor4('yellow')"></button>
+           <button class="buton14" onclick="handlecolor4('goldenrod')"></button>
+           <button class="buton15" onclick="handlecolor4('gold')"></button>
+           <button class="buton16"  onclick="handlecolor4('lightgoldenrodyellow')"></button>
+</div>
+</div>
+    <hr>
+</body>
+</html>
